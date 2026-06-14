@@ -17,7 +17,7 @@
 
 ## 1. 📖 Overview
 
-**Cold-Calling-Army** (internally *OutboundAI*) is a single-operator platform for running **autonomous outbound phone campaigns**. You upload leads or trigger a call from a dashboard; the system places a real PSTN call, and once the lead answers, a **Gemini Live** voice agent conducts the conversation natively (speech-in / speech-out), qualifies the lead, checks availability, and books an appointment — invoking real backend tools as it talks.
+**Cold-Calling-Army** (*AuraOutboundAI*) is a single-operator platform for running **autonomous outbound phone campaigns**. You upload leads or trigger a call from a dashboard; the system places a real PSTN call, and once the lead answers, a **Gemini Live** voice agent conducts the conversation natively (speech-in / speech-out), qualifies the lead, checks availability, and books an appointment — invoking real backend tools as it talks.
 
 Every call is recorded, every outcome is logged, and every call's **Gemini token cost** is estimated and stored, so the dashboard shows booking rate, call outcomes, durations, and spend.
 
